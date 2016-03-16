@@ -1,7 +1,7 @@
 {
   "name": "TMT SysML Model",
   "tagline": "Thirty Meter Telescope System Model in SysML",
-  "body": "### Welcome to the Thirty Meter Telescope SysML model\r\n\r\n\r\n",
+  "body": "### Welcome to the Thirty Meter Telescope SysML model\r\nThirty Meter Telescope System Model in SysML This is the SysML system model of the Thirty Meter Telescope project ([www.tmt.org](www.tmt.org)). An overview of system level simulation in general and the purpose of this model in particular you can find in this [video](https://www.youtube.com/watch?v=MLa8IVuJeBc)\r\n\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
