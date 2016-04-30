@@ -27,6 +27,6 @@ diagrams is done with a simulation engine based on standard execution semantics.
 
 An overview of system level simulation in general and the purpose of this model in particular you can find in this [video](https://www.youtube.com/watch?v=MLa8IVuJeBc)
 
-You need MagicDraw 18.0 and CST 18.3 to run the simulations.
+You need MagicDraw 18.0 and CST 18.4  beta to run the simulations.
 
 
