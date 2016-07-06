@@ -1,6 +1,6 @@
 # TMT-SysML-Model
 ### Welcome to the Thirty Meter Telescope SysML model
-The Thirty Meter Telescope (TMT)system that is currently being
+The Thirty Meter Telescope ([https://www.tmt.org](TMT)) system that is currently being
 developed by the TMT Observatory Corporation. The main objective for the TMT related
 analysis is to provide state-dependent power roll-ups
 for different operational scenarios and demonstrate that requirements are satisfied by the design as well as mass roll-ups and duration analysis of the operational use cases.
@@ -25,8 +25,14 @@ approach is automated in the sense that the analysis models can be executed. The
 the parametric diagrams is done with a parametric solver, where the execution of the behavioral
 diagrams is done with a simulation engine based on standard execution semantics.
 
-An overview of system level simulation in general and the purpose of this model in particular you can find in this [video](https://www.youtube.com/watch?v=MLa8IVuJeBc)
+The model was presented at:
+- [SPIE June 2016, Edinburgh](https://www.youtube.com/watch?v=VcXLUf-cfLY)
+- [NoMagic World Conference](https://vimeopro.com/user28256466/no-magic-world-symposium-2016/video/171045570)
 
-You need MagicDraw 18.0 and CST 18.4  beta to run the simulations.
+Further information on telescope modeling and other telescope projects applying MBSE techniques can be found on
+[INCOSE's MBSE Wiki](http://www.omgwiki.org/MBSE/doku.php?id=start)
+
+You need MagicDraw 18.0 and CST 18.4 to run the simulations.
+In order to load the model you require also to intall the Model Development Kit ([MDK](https://github.com/Open-MBEE/MDK))
 
 
