@@ -32,7 +32,7 @@ The model was presented at:
 Further information on telescope modeling and other telescope projects applying MBSE techniques can be found on
 [INCOSE's MBSE Wiki](http://www.omgwiki.org/MBSE/doku.php?id=start)
 
-You need MagicDraw 18.0 and CST 18.4 to run the simulations.
+You need MagicDraw 18.0 and CST 18.5 to run the simulations.
 In order to load the model you require also to intall the Model Development Kit ([MDK](https://github.com/Open-MBEE/MDK))
 
 
