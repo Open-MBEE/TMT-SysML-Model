@@ -26,7 +26,7 @@ the parametric diagrams is done with a parametric solver, where the execution of
 diagrams is done with a simulation engine based on standard execution semantics.
 
 The model was presented at:
-- [SPIE June 2016, Edinburgh](https://www.youtube.com/watch?v=VcXLUf-cfLY)
+- [SPIE June 2016, Edinburgh](https://www.youtube.com/watch?v=lRt5ndk8IM4)
 - [NoMagic World Conference](https://vimeopro.com/user28256466/no-magic-world-symposium-2016/video/171045570)
 
 Further information on telescope modeling and other telescope projects applying MBSE techniques can be found on
