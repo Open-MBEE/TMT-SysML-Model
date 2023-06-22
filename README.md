@@ -3,20 +3,25 @@
 
 The necessary information needed to test is provided below.
 
-* how the model is structured 
--	The model overall is split into two parts, the TMT PO and the JPL side.
--	Each of these sides again contains the various aspects and sub-systems relevant for the respective side.
-  o	The TMT Observatory side contains the Operational Domains and Flow Analyses as well as its WBS.
-  o	The JPL side contains the APS and CS System Model (including its domains and analyses)
--	The structure is also documented in the “00 Start Here” package, specifically in the “TMT Overview Diagram”	
+How the model is structured
+	- The model overall is split into two parts, the TMT PO and the JPL side.
+	- Each of these sides again contains the various aspects and sub-systems relevant for the respective side.
+  		o The TMT Observatory side contains the Operational Domains and Flow Analyses as well as its WBS.
+    		o The JPL side contains the APS and CS System Model (including its domains and analyses)
+	- The structure is also documented in the “00 Start Here” package, specifically in the “TMT Overview Diagram”	
 
-* which simulations can be used (we have about 20 complex ones)
-	- 
-	
-* what are the expected results and how to understand they work as expected 
-	- 
+Which simulations can be used and what are the expected results and how to understand they work as expected:
+	There are many complex simulations in the TMT model on both, the JPL and the TMT PO side.
+ 	The most illustrative simulation son the JPL side are shown below, the respective simulation configs are found in the marked folder.
+  	<img width="433" alt="Screenshot 2023-06-22 at 1 08 07 PM" src="https://github.com/Open-MBEE/TMT-SysML-Model/assets/131720106/b78cd4f9-4711-4753-ba51-c2c21bbcc463">
+   	These simulations can be run and assess a variety of times.
+    	All results are recorded in tables in the package folder marked below.
+     	<img width="430" alt="Screenshot 2023-06-22 at 1 09 56 PM" src="https://github.com/Open-MBEE/TMT-SysML-Model/assets/131720106/e6efa115-5571-4040-87fc-262b2d391e3c">
+      	The most important time, ranging from 100 to over 30,000 in "Warping Harness Influence Function Analysis Timing Analysis Results" is the tFinal value, which should be recorded properly in each simulation.
+       	Recording of these times has to checked and ensured
 
-* which branches and versions to use
+Which branches and versions to use
 	The ‘se’ branch is used by the TMT Observatory and the ‘aps’ branch is used by the people at JPL. This is analogous to the structure described above.
+ 	Here on GitHub, the APS branch is provided in testing/aps, the se branch will follow
 
 
