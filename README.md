@@ -13,11 +13,15 @@ How the model is structured
 Which simulations can be used and what are the expected results and how to understand they work as expected:
 	There are many complex simulations in the TMT model on both, the JPL and the TMT PO side.
  	The most illustrative simulation son the JPL side are shown below, the respective simulation configs are found in the marked folder.
+  
   	<img width="433" alt="Screenshot 2023-06-22 at 1 08 07 PM" src="https://github.com/Open-MBEE/TMT-SysML-Model/assets/131720106/b78cd4f9-4711-4753-ba51-c2c21bbcc463">
-   	These simulations can be run and assess a variety of times.
+   	
+    	These simulations can be run and assess a variety of times.
     	All results are recorded in tables in the package folder marked below.
+     
      	<img width="430" alt="Screenshot 2023-06-22 at 1 09 56 PM" src="https://github.com/Open-MBEE/TMT-SysML-Model/assets/131720106/e6efa115-5571-4040-87fc-262b2d391e3c">
-      	The most important time, ranging from 100 to over 30,000 in "Warping Harness Influence Function Analysis Timing Analysis Results" is the tFinal value, which should be recorded properly in each simulation.
+      		
+	The most important time, ranging from 100 to over 30,000 in "Warping Harness Influence Function Analysis Timing Analysis Results" is the tFinal value, which should be recorded properly in each simulation.
        	Recording of these times has to checked and ensured
 
 Which branches and versions to use
