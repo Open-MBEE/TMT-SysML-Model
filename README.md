@@ -13,9 +13,8 @@ How the model is structured
 Which simulations can be used and what are the expected results and how to understand they work as expected:
 	There are many complex simulations in the TMT model on both, the JPL and the TMT PO side.
  	The most illustrative simulation son the JPL side are shown below, the respective simulation configs are found in the marked folder in Screenshot 1. 
-  
-<img width="433" alt="Screenshot 2023-06-22 at 1 08 07 PM" src="https://github.com/Open-MBEE/TMT-SysML-Model/assets/131720106/babd0aad-90b0-4682-85e8-de8b7965ac27">
 
+<img width="433" alt="Screenshot 2023-06-22 at 1 08 07 PM" src="https://github.com/Open-MBEE/TMT-SysML-Model/assets/131720106/e88a3fe5-5028-41c3-8b7b-f8d0075c81de">
 
 	Screenshot 1	
 	
