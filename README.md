@@ -18,7 +18,7 @@ Which simulations can be used and what are the expected results and how to under
 
 	Screenshot 1	
 	
- 	These simulations can be run and assess a variety of times.
+ These simulations can be run and assess a variety of times.
     	All results are recorded in tables in the package folder marked below in Screenshot 2.
      
 <img width="430" alt="Screenshot 2023-06-22 at 1 09 56 PM" src="https://github.com/Open-MBEE/TMT-SysML-Model/assets/131720106/3cf23cea-12f5-4dad-bab7-4967f46a2cff">
@@ -26,7 +26,7 @@ Which simulations can be used and what are the expected results and how to under
 	Screenshot 2
 
 	
- 	The most important time, ranging from 100 to over 30,000 in "Warping Harness Influence Function Analysis Timing Analysis Results" is the tFinal value, which should be recorded properly in each simulation.
+ The most important time, ranging from 100 to over 30,000 in "Warping Harness Influence Function Analysis Timing Analysis Results" is the tFinal value, which should be recorded properly in each simulation.
        	Recording of these times has to checked and ensured
 
 Which branches and versions to use
